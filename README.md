@@ -1,4 +1,4 @@
-# volatility3-tui
+# volatility3-tui (qvi)
 A tui based on the volatility3 framework for memory analysis
 
 # quick start
