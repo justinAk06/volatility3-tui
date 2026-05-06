@@ -2,7 +2,7 @@
 A tui based on the volatility3 framework for memory analysis
 
 # quick start
-Start analysis w/ "python3 /qvi/app.py <file path to memory file>"
+Start analysis w/ "python3 /qvi/app.py file_path_to_memory_file"
 navigation is done though the arrow keys
 other keybinds are explaind at the botom of the tui
 c copies the details window to the clipboard (right window)
